@@ -35,6 +35,9 @@ https://yangxiaoge.github.io/yingshi
 - [q215613905/TVBoxOS/main](https://github.com/q215613905/TVBoxOS) (Updated: 9d38d66185622a2a406b248fdefbed02a7e5d06b)
 
 - [ze32/okTV/v2.5.8](https://github.com/ze32/okTV) (Updated: temac3ed7be1b977ac59602fa9c53c7e51127319)
+- [ze32/okTV/v2.4.4](https://github.com/ze32/okTV) (Updated: t26f7867afc8b518dd21e2a16f625f38cc3a8aa6)
+- [ze32/okTV-lite/v2.3.1](https://github.com/ze32/okTV-lite) (Updated: t8050ca55a989d162dd95155bec3a9d7f65e845a)
+- [ze32/okTV-lite/v2.5.8](https://github.com/ze32/okTV-lite) (Updated: te6f6441be9554311585b6d60482e721aedab543)
 
 
 **2. 自定义爬虫**

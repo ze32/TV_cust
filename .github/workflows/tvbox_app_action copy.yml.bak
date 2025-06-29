@@ -1,8 +1,8 @@
-name: 编译TV
+name: 编译tvbox
 
 on:
-  # schedule:
-  #   - cron: 0 20 * * *
+  schedule:
+    - cron: 0 20 * * *
   workflow_dispatch:
     inputs:
       rebuild:
@@ -21,22 +21,22 @@ jobs:
       fail-fast: false
       matrix:
         include:
-#          - userName: FongMi
-#            repoName: TV
-#            branchName: release
-#            # fongmi（大佬部分aar未提交，导致编译失败）
-#            # branchName: fongmi
-#            # ok大佬
-#            jdkVersion: 17
-
-          - userName: ze32
-            repoName: okTV
-            branchName: v2.5.8
+          - userName: FongMi
+            repoName: TV
+            branchName: release
+            # fongmi（大佬部分aar未提交，导致编译失败）
+            # branchName: fongmi
+            # ok大佬
             jdkVersion: 17
 
           - userName: ze32
-            repoName: okTV
-            branchName: v2.4.4
+            repoName: fm-tv
+            branchName: v3.6.7
+            jdkVersion: 17
+
+          - userName: ze32
+            repoName: fm-tv
+            branchName: v3.3.7
             jdkVersion: 17
 
           # - userName: q215613905
@@ -173,7 +173,7 @@ jobs:
 
       - uses: dev-drprasad/delete-older-releases@master
         with:
-          keep_latest: 1
+          keep_latest: 500
           delete_tags: true
           delete_tag_pattern: ${{ matrix.userName }}_${{ matrix.repoName }}_${{ matrix.branchName }}.*
         env:
