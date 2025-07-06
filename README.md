@@ -31,7 +31,7 @@ https://yangxiaoge.github.io/yingshi
 | [ze32/okTV](https://github.com/ze32/okTV)               | v2.4.4        | 35d236e598d2975d74eae250581b0c7cce1b3bd8  | 2025-06-29 19:53:35 |
 | [ze32/okTV](https://github.com/ze32/okTV)               | v2.5.8        | bc3d705a4ceabb807f44dca24fe0292a6aa2af16  | 2025-06-29 19:53:11 |
 | [ze32/okTV-lite](https://github.com/ze32/okTV-lite)               | v2.3.1        | fd962fab5efbbe4e39df51c4f2c0286d0c5a7083  | 2025-06-29 19:52:06 |
-| [ze32/okTV-lite](https://github.com/ze32/okTV-lite)               | v2.5.8        | 3ec9f21d882f7b0e03ef5553a38b9ceed3cb7afb  | 2025-06-29 19:53:34 |
+| [ze32/okTV-lite](https://github.com/ze32/okTV-lite)               | v2.5.8        | 707740b7776db61754ddfb02673ef1389f4fb274  | 2025-07-06 19:56:43 |
 
 
 **2. 自定义爬虫**
