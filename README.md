@@ -28,7 +28,7 @@ https://yangxiaoge.github.io/yingshi
 | Repository                               | Branch         | Last Update                              | Build Time |
 |------------------------------------------|----------------|------------------------------------------|------------|
 | [FongMi/TV](https://github.com/FongMi/TV)               | release        | a03ac275211c5afa5764e9cd7724de5405f4d029  | 2025-06-26 15:35:48 |
-| [ze32/TV](https://github.com/ze32/TV)               | v3.3.7        | a8ee77d2fb8e04942be7e11fcf28a484116970f4  | 2025-06-29 19:49:56 |
+| [ze32/TV](https://github.com/ze32/TV)               | v3.3.7        | b2f8cbcbe6c13093d964f0019be5a3bbaab53724  | 2025-07-08 20:00:46 |
 | [ze32/TV](https://github.com/ze32/TV)               | v3.8.5        | fa7ba721ed70474715eb98dc22868561f4a153d2  | 2025-06-29 19:49:46 |
 | [ze32/TV](https://github.com/ze32/TV)               | v4.0.0        | fa7ba721ed70474715eb98dc22868561f4a153d2  | 2025-06-29 19:49:46 |
 
