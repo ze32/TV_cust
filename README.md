@@ -31,7 +31,7 @@ https://yangxiaoge.github.io/yingshi
 | [ze32/okTV](https://github.com/ze32/okTV)               | v2.4.4        | 5802dd986f609b9201af1d9f6fd31ab6d94ed5df  | 2025-07-18 18:58:25 |
 | [ze32/okTV](https://github.com/ze32/okTV)               | v2.5.8        | 9e5382a74b688cbf6ce9741937a61a5ae7619b51  | 2025-07-18 18:58:16 |
 | [ze32/okTV](https://github.com/ze32/okTV)               | v2.2.5        | c61de6b3196e32da3b11565dc8a0455ef14c7365  | 2025-07-18 19:03:27 |
-| [ze32/okTV_lite](https://github.com/ze32/okTV_lite)     | v2.3.1        | tec9f21d882f7b0e03ef5553a38b9ceed3cb7afb  | 2025-06-29 19:53:34 |
+| [ze32/okTV_lite](https://github.com/ze32/okTV_lite)     | v2.3.1        | a09f622e92e4c036cf96e5e2466053008804aca6  | 2025-07-18 19:04:25 |
 | [ze32/okTV_lite](https://github.com/ze32/okTV_lite)     | v2.5.8        | tec9f21d882f7b0e03ef5553a38b9ceed3cb7afb  | 2025-06-29 19:53:34 |
 
 
