@@ -29,7 +29,7 @@ https://yangxiaoge.github.io/yingshi
 |------------------------------------------|----------------|------------------------------------------|------------|
 | [FongMi/TV](https://github.com/FongMi/TV)               | release        | a03ac275211c5afa5764e9cd7724de5405f4d029  | 2025-06-26 15:35:48 |
 | [ze32/okTV](https://github.com/ze32/okTV)               | v2.5.8        | e7091e07848b35b3d29f5d5ffcb47c09b1e83935  | 2025-06-29 19:53:11 |
-| [ze32/okTV_lite](https://github.com/ze32/okTV_lite)     | v2.5.8        | 41e551e3f0a7aac2ceba76520c26c00f2f54162a  | 2025-06-29 19:53:34 |
+| [ze32/okTV_lite](https://github.com/ze32/okTV_lite)     | v2.5.8        | 9b11b2681ade35c45fb94076e5cf8afcd6a5b67c  | 2025-07-29 20:40:35 |
 
 
 **2. 自定义爬虫**
