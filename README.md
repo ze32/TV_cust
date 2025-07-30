@@ -28,7 +28,7 @@ https://yangxiaoge.github.io/yingshi
 | Repository                               | Branch         | Last Update                              | Build Time |
 |------------------------------------------|----------------|------------------------------------------|------------|
 | [FongMi/TV](https://github.com/FongMi/TV)               | release        | a03ac275211c5afa5764e9cd7724de5405f4d029  | 2025-06-26 15:35:48 |
-| [qlql765/TV](https://github.com/qlql765/TV)             | release        | t71ed645d62e6a428fee4b529c2a4aaa9bc4264f  | 2025-07-29 20:41:09 |
+| [qlql765/TV](https://github.com/qlql765/TV)             | release        | 67a05ccf2858488ec3162035a00e0ca4a7e93efd  | 2025-07-30 19:00:36 |
 
 
 **2. 自定义爬虫**
