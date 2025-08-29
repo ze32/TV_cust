@@ -30,15 +30,19 @@ jobs:
 #            branchName: release
 #            jdkVersion: 17
           - userName: ze32
-            repoName: okTV
-            branchName: v2.5.3
-            jdkVersion: 17
-          - userName: ze32
-            repoName: okTV
+            repoName: TVold
             branchName: v2.5.8
             jdkVersion: 17
           - userName: ze32
-            repoName: fmTV
+            repoName: TVold
+            branchName: v2.5.8.full
+            jdkVersion: 17
+          - userName: ze32
+            repoName: TVold
+            branchName: v2.2.5
+            jdkVersion: 17
+          - userName: ze32
+            repoName: TVold
             branchName: v2.2.0
             jdkVersion: 17
 
@@ -232,6 +236,12 @@ jobs:
           sed -i 's#\(package com.fongmi.android.tv.ui.dialog;\)#\1\nimport com.fongmi.android.tv.utils.FileUtilExtend;#' app/src/leanback/java/com/fongmi/android/tv/ui/dialog/ConfigDialog.java
           sed -i 's#\(else callback.setConfig(Config.find(text, name, type));\)#\1\n        if (type == 0) {FileUtilExtend.clearApiCache();}#' app/src/leanback/java/com/fongmi/android/tv/ui/dialog/ConfigDialog.java
 
+
+      - name: Only for full pack so
+        if: ${{ (matrix.branchName == 'v2.5.8.full' || matrix.branchName == 'v2.2.0') && env.commit }}
+        working-directory: TVBoxOSC
+        run: |
+          echo "这是 完整包 的专属定制"
           # copy .so files
           # forcetech so
           mkdir -p forcetech/src/main/jniLibs/armeabi-v7a
