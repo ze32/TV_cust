@@ -29,7 +29,7 @@ https://yangxiaoge.github.io/yingshi
 |------------------------------------------|----------------|------------------------------------------|------------|
 | [FongMi/TV](https://github.com/FongMi/TV)               | release        | a03ac275211c5afa5764e9cd7724de5405f4d029  | 2025-06-26 15:35:48 |
 | [ze32/TVold](https://github.com/ze32/TVold)             | v2.5.8         | 0cd327749a02eca511b388b75e480a474cbd5514  | 2025-08-29 19:11:15 |
-| [ze32/TVold](https://github.com/ze32/TVold)             | v2.5.8.full    | 0cd327749a02eca511b388b75e480a474cbd5514  | 2025-08-29 19:11:15 |
+| [ze32/TVold](https://github.com/ze32/TVold)             | v2.5.8.full    | 802f2dea3eb5fb08516242003775c7b99cfad28d  | 2025-08-29 19:11:38 |
 | [ze32/TVold](https://github.com/ze32/TVold)             | v2.2.5         | 9d2b272d6b12eb4f79c6d298e60e4e65f1a4f4a5  | 2025-08-14 21:09:47 |
 | [ze32/TVold](https://github.com/ze32/TVold)             | v2.2.0         | 91df0b9af03fa4a1eeb9cc192213d6e9c7858ba1  | 2025-08-29 19:11:00 |
 
