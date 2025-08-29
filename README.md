@@ -31,7 +31,7 @@ https://yangxiaoge.github.io/yingshi
 | [ze32/TVold](https://github.com/ze32/TVold)             | v2.5.8         | 47ff7e1051ccf23ccbd2092841d8074b49aa7f52  | 2025-08-14 21:16:32 |
 | [ze32/TVold](https://github.com/ze32/TVold)             | v2.5.8.full    | 47ff7e1051ccf23ccbd2092841d8074b49aa7f52  | 2025-08-14 21:12:29 |
 | [ze32/TVold](https://github.com/ze32/TVold)             | v2.2.5         | 9d2b272d6b12eb4f79c6d298e60e4e65f1a4f4a5  | 2025-08-14 21:09:47 |
-| [ze32/TVold](https://github.com/ze32/TVold)             | v2.2.0         | 1e5242fa4600bd3f6411841dd76a7ae6a92fcd79  | 2025-08-14 21:09:47 |
+| [ze32/TVold](https://github.com/ze32/TVold)             | v2.2.0         | 91df0b9af03fa4a1eeb9cc192213d6e9c7858ba1  | 2025-08-29 19:11:00 |
 
 
 **2. 自定义爬虫**
